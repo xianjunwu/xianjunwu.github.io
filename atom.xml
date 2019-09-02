@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xianjunwu.github.io/"/>
-  <updated>2019-08-28T13:41:57.660Z</updated>
+  <updated>2019-09-02T01:55:15.215Z</updated>
   <id>https://xianjunwu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown使用教程</title>
+    <link href="https://xianjunwu.github.io/2019/09/02/markdown%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <id>https://xianjunwu.github.io/2019/09/02/markdown使用教程/</id>
+    <published>2019-09-02T01:48:24.606Z</published>
+    <updated>2019-09-02T01:55:15.215Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="R-Markdown"><a href="#R-Markdown" class="headerlink" title="R Markdown"></a>R Markdown</h2><p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" target="_blank" rel="noopener">http://rmarkdown.rstudio.com</a>.</p><h2 id="学习过程中收集的网络资源"><a href="#学习过程中收集的网络资源" class="headerlink" title="学习过程中收集的网络资源"></a>学习过程中收集的网络资源</h2><p>在学习markdown过程中收集了很多网络资源，有王诗翔的简书,<a href="https://www.jianshu.com/p/a592caee9774" target="_blank" rel="noopener">https://www.jianshu.com/p/a592caee9774</a><br>markdown基本语法<a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank" rel="noopener">https://www.jianshu.com/p/191d1e21f7ed</a><br>W3Cschool网站上有很多资源<a href="https://www.w3cschool.cn/markdownyfsm/" target="_blank" rel="noopener">https://www.w3cschool.cn/markdownyfsm/</a><br>感谢前辈的经验分享，使得后来者能少走很多弯路。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;R-Markdown&quot;&gt;&lt;a href=&quot;#R-Markdown&quot; class=&quot;headerlink&quot; title=&quot;R Markdown&quot;&gt;&lt;/a&gt;R Markdown&lt;/h2&gt;&lt;p&gt;This is an R Markdown document. Markdo
+      
+    
+    </summary>
+    
+      <category term="生产力工具" scheme="https://xianjunwu.github.io/categories/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="markdown" scheme="https://xianjunwu.github.io/tags/markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
