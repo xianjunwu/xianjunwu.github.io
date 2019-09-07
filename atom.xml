@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xianjunwu.github.io/"/>
-  <updated>2019-09-04T11:31:24.252Z</updated>
+  <updated>2019-09-07T12:13:20.351Z</updated>
   <id>https://xianjunwu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my article</title>
+    <link href="https://xianjunwu.github.io/2019/09/07/my_article/"/>
+    <id>https://xianjunwu.github.io/2019/09/07/my_article/</id>
+    <published>2019-09-07T11:53:16.262Z</published>
+    <updated>2019-09-07T12:13:20.351Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="线性回归"><a href="#线性回归" class="headerlink" title="线性回归"></a>线性回归</h2><p>Systematic Investigation of Quercetin for Treating Cardiovascular Disease Based on Network Pharmacology<a href="http://www.eurekaselect.com/173597/article" target="_blank" rel="noopener">http://www.eurekaselect.com/173597/article</a><br>Dissecting the underlying pharmaceutical mechanism of traditional Chinese medicine Wenxin Keli acting on atrial fibrillation through network pharmacology<a href="https://www.tmrjournals.com/dct/EN/10.12032/DCT201903003" target="_blank" rel="noopener">https://www.tmrjournals.com/dct/EN/10.12032/DCT201903003</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;线性回归&quot;&gt;&lt;a href=&quot;#线性回归&quot; class=&quot;headerlink&quot; title=&quot;线性回归&quot;&gt;&lt;/a&gt;线性回归&lt;/h2&gt;&lt;p&gt;Systematic Investigation of Quercetin for Treating Cardiovascu
+      
+    
+    </summary>
+    
+      <category term="统计学习" scheme="https://xianjunwu.github.io/categories/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="article" scheme="https://xianjunwu.github.io/tags/article/"/>
+    
+  </entry>
   
   <entry>
     <title>线性回归</title>
