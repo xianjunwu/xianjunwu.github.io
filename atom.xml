@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xianjunwu.github.io/"/>
-  <updated>2019-09-07T12:20:19.205Z</updated>
+  <updated>2019-12-11T08:02:30.703Z</updated>
   <id>https://xianjunwu.github.io/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>R语言资料收集</title>
+    <link href="https://xianjunwu.github.io/2019/12/11/R%E8%AF%AD%E8%A8%80%E8%B5%84%E6%96%99%E6%94%B6%E9%9B%86/"/>
+    <id>https://xianjunwu.github.io/2019/12/11/R语言资料收集/</id>
+    <published>2019-12-11T08:02:30.000Z</published>
+    <updated>2019-12-11T08:02:30.703Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>R语言资料收集</title>
+    <link href="https://xianjunwu.github.io/2019/12/11/R%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E8%B5%84%E6%96%99%E6%94%B6%E9%9B%86/"/>
+    <id>https://xianjunwu.github.io/2019/12/11/R语言学习过程资料收集/</id>
+    <published>2019-12-11T07:52:39.849Z</published>
+    <updated>2019-12-11T07:57:23.589Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="R语言-数据挖掘"><a href="#R语言-数据挖掘" class="headerlink" title="R语言 数据挖掘"></a>R语言 数据挖掘</h2><p>R语言 数据挖掘-文本分析(2)<a href="https://www.jianshu.com/p/3742d86fc3a8" target="_blank" rel="noopener">https://www.jianshu.com/p/3742d86fc3a8</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;R语言-数据挖掘&quot;&gt;&lt;a href=&quot;#R语言-数据挖掘&quot; class=&quot;headerlink&quot; title=&quot;R语言 数据挖掘&quot;&gt;&lt;/a&gt;R语言 数据挖掘&lt;/h2&gt;&lt;p&gt;R语言 数据挖掘-文本分析(2)&lt;a href=&quot;https://www.jianshu.c
+      
+    
+    </summary>
+    
+      <category term="R" scheme="https://xianjunwu.github.io/categories/R/"/>
+    
+    
+      <category term="数据清洗" scheme="https://xianjunwu.github.io/tags/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/"/>
+    
+  </entry>
   
   <entry>
     <title>my article</title>
