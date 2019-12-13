@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[R语言资料收集]]></title>
     <url>%2F2019%2F12%2F11%2FR%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E8%B5%84%E6%96%99%E6%94%B6%E9%9B%86%2F</url>
-    <content type="text"><![CDATA[R语言 数据挖掘R语言 数据挖掘-文本分析(2)https://www.jianshu.com/p/3742d86fc3a8Text Mining with R A Tidy Approach (for Chinese Text)https://text-mining-with-r-a-tidy-approach.netlify.com/結合jiebar與Tidy text套件，處理中文文字資料http://rstudio-pubs-static.s3.amazonaws.com/480176_a93ec4f372774fdb85c1eda7b5b99706.html]]></content>
+    <content type="text"><![CDATA[R语言 数据挖掘R语言 数据挖掘-文本分析(2)https://www.jianshu.com/p/3742d86fc3a8Text Mining with R A Tidy Approach (for Chinese Text)https://text-mining-with-r-a-tidy-approach.netlify.com/結合jiebar與Tidy text套件，處理中文文字資料http://rstudio-pubs-static.s3.amazonaws.com/480176_a93ec4f372774fdb85c1eda7b5b99706.htmlError in .M.kind(x) : not yet implemented for matrix with typeof NULLhttps://github.com/juliasilge/tidytext/issues/126]]></content>
       <categories>
         <category>R</category>
       </categories>
